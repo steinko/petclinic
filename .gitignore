@@ -142,3 +142,6 @@ Desktop.ini
 ######################
 .eslintcache
 index.html
+/build.gradle
+/gradle.properties
+/settings.gradle
